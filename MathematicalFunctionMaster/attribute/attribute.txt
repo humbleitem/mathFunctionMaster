@@ -1,0 +1,16 @@
+experimentTime: 5
+allRunTime: 30
+numX: 10
+startVariable: -5.12
+endVariable: 5.12
+initialSolutionSet: true
+duplicate: false
+population: 100
+totalThread: 10
+exchangeNum: 3000
+totalRun: 1
+errorRate: 0
+algorithm: geneticDuplicate
+function: rastrigin
+------------------------------------
+
